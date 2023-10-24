@@ -2,13 +2,16 @@
 
 Problem 1 - Yes, My Lord
 
-As you entered the hall walking slowly. A loud voice saying "I am your god. And I will only accept those who are deemed worthy. Show me what you have got." As you continue to walk, in the wall shows the inscribed text that translates as follows:
+As you entered the hall walking slowly. A loud voice saying "I am your god. And I will only accept those who are deemed worthy. Show me what you have got." As you continue to walk, in the wall shows the inscribed 
+text that translates as follows:
 
-• Only those soul who's clean are deemed acceptable.
-• The good deeds are weighted in a scale. 
-• Balancing the good and the bad.
+â€¢ Only those soul who's clean are deemed acceptable.
+â€¢ The good deeds are weighted in a scale. 
+â€¢ Balancing the good and the bad.
 
-"How is this possible?" you have asked in your head. A man just walkout in the dark alley towards you saying, "Nah, It's easy my lad, just give a number and get the good (1) and bad (0) equivalent and if your souls value is clean (means that either left or right direction it would be the same). Then you are deemed worthy.
+"How is this possible?" you have asked in your head. A man just walkout in the dark alley towards you saying, "Nah, It's easy my lad, just give a number and get the good (1) and bad (0) equivalent and if your 
+souls value is clean (means that either left or right direction it would be the same). Then you are deemed worthy.
+
 Hint: Create a program that would accept a number. And checks if the binary equivalent is a palindrome.
 
 */
